@@ -268,3 +268,6 @@ Esses resultados demonstram como técnicas de análise exploratória podem revel
 - Matplotlib
 - Scikit-learn
 - Google Colab
+
+## Checklist do projeto:
+https://github.com/RafaelWhoa/titanic-analytics/wiki/Checklist
