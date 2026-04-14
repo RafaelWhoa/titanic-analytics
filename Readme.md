@@ -1,4 +1,8 @@
-# Análise Exploratório e Pré-processamento do Dataset Titanic
+# 📊 Minimal viable product: Análise Exploratório e Pré-processamento do Dataset Titanic  
+## 🚀 Sprint: Análise de Dados e Boas Práticas  
+**Aluno:** Rafael Henrique da Costa  
+**RA:** 4052025002012  
+**Turma:** 40530010055_20260_01  
 
 ## Introdução
 
